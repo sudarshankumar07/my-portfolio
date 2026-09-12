@@ -5,7 +5,10 @@
 body{
     background-color: #000;
     color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
 }
+
 #nav{
     border-radius: 2rem ;
 }
@@ -102,7 +105,11 @@ a{
         height: 70vh;
     }
     .full-stack-icon,.logo-dsa,.logo-backend,.logo-UI{
+        font-size: 1.5rem;
+    }
+    .para-beyond-coding{
         font-size: small;
     }
+
 
 }
