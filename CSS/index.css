@@ -97,3 +97,12 @@ a{
 .social-icon:hover {
     transform: translateY(-3px);
 }
+@media (max-width : 420){
+    .hero{
+        height: 70vh;
+    }
+    .full-stack-icon,.logo-dsa,.logo-backend,.logo-UI{
+        font-size: small;
+    }
+
+}
