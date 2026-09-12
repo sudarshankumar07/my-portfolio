@@ -97,7 +97,7 @@ a{
 .social-icon:hover {
     transform: translateY(-3px);
 }
-@media (max-width : 420){
+@media (max-width : 420px){
     .hero{
         height: 70vh;
     }
